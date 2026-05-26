@@ -1,4 +1,4 @@
-# Punto1FinalSistop
+# Punto1FinalSistop Sofía Soto Guerrero
 
 Ejecución del script de bash:
 <img width="2113" height="1438" alt="image" src="https://github.com/user-attachments/assets/3c52068b-ee54-4464-ba5c-c119041887c8" />

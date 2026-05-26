@@ -13,5 +13,5 @@
 <img width="2118" height="418" alt="image" src="https://github.com/user-attachments/assets/0c058c90-215c-472f-81c0-fe1365d51130" />
 
 ## Enlace a la conversación con Gemini:
-´´´´ https://gemini.google.com/share/c6a057485777 ´´´´
+https://gemini.google.com/share/c6a057485777
 
